@@ -1,0 +1,162 @@
+.cursor {
+    cursor: grab;
+}
+
+.bg-dark {
+    background-color: #1f1d1d;
+}
+
+.bg-light {
+    background-color: rgb(56, 52, 52);
+}
+
+.bg-green {
+    background-color: rgb(51, 165, 29);
+}
+
+.bg-red {
+    background-color: rgb(231, 23, 23);
+}
+
+.bg-yellow {
+    background-color: rgb(237, 255, 143);
+}
+
+.bg-blue {
+    background-color: rgb(130, 182, 255);
+}
+
+.round {
+    border-radius: 20px;
+}
+
+.button {
+    color: rgb(0, 0, 0);
+    background-color: rgb(130, 182, 255);
+    border-color: rgb(130, 182, 255);
+    border-radius: 2px;
+    cursor: grabbing;
+}
+
+.hover:hover {
+    background-color: rgb(130, 247, 255);
+    border-color: rgb(130, 247, 255);
+}
+
+.button:hover{
+    background-color: rgb(130, 247, 255);
+    border-color: rgb(130, 247, 255);
+}
+
+.button[disabled]{
+    background-color:beige;
+    border-color: beige;
+}
+
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+.hint {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(56, 52, 52);
+}
+
+.title-category{
+    color: #1f1d1d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title-link{
+    font-size: large;
+    color: rgb(237, 255, 143);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(130, 182, 255);
+    border-radius: 5px;
+    border-color: rgb(130, 182, 255);
+}
+
+.title-link:hover{
+    color: #1f1d1d;
+    cursor: grabbing;
+}
+
+.text-black{
+    color: rgb(56, 52, 52);
+}
+
+.text-centre{
+    color: #1f1d1d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.turn-text{
+    color: #1f1d1d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+
+.display {
+    padding: 50px;
+    margin: 30px;
+}
+
+.display-link {
+    padding: 50px;
+    margin: 30px;
+    text-align: center;
+}
+
+.input {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(130, 182, 255);
+    border-color: rgb(130, 182, 255);
+    border-radius: 2px;
+
+}
+
+.candle {
+    color: aliceblue;
+    padding: 100px;
+    margin: 25;
+    align-items: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.allign-left{
+    align-items: left;
+    text-align: left;
+}
+
+.allign-right{
+    align-items: right;
+    text-align: right;
+}
+
+.left{
+    text-align: left;
+}
+
+.centre {
+    align-items: center;
+}
+
+.game {
+    text-align: left;
+    padding: 30;
+    margin: 40px;
+}
+
+.centre {
+    text-align: center;
+}
+
+/* css time baby */
